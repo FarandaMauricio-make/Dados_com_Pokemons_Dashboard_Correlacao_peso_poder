@@ -30,10 +30,10 @@ Este projeto é um **painel interativo em Streamlit** que analisa dados de Poké
 
 ## 🚀 Como rodar localmente
 
-1. Clone este repositório:
+Clone este repositório:
    ```bash
    git clone https://github.com/seuusuario/pokemon-peso-poder.git
    cd pokemon-peso-poder
-
+  ```
 Você pode acessar o o Dashboard a partir do link: [Dashboard_relação_peso_x_poder](https://dados-com-pokemons-correlacao-peso-poder.onrender.com)
 
