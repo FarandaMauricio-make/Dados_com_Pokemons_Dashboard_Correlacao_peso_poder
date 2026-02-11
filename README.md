@@ -35,5 +35,5 @@ Clone este repositório:
    git clone https://github.com/seuusuario/pokemon-peso-poder.git
    cd pokemon-peso-poder
   ```
-Você pode acessar o Dashboard a partir do link: [Dashboard_relação_peso_x_poder](https://dados-com-pokemons-correlacao-peso-poder.onrender.com)
+Você pode acessar o Dashboard a partir do link: [Peso x Poder: Explorando Arquétipos Pokémon](https://dados-com-pokemons-correlacao-peso-poder.onrender.com)
 
